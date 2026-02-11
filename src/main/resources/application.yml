@@ -4,3 +4,6 @@ ems:
   user: admin
   password: password
   queue: test.queue
+  retryinterval: 1000
+  retrycount: 3
+  timeout: 60000
